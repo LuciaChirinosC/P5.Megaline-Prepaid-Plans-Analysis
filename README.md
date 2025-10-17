@@ -35,6 +35,6 @@ Análisis estadístico de consumo y cálculo de ingresos para comparar las tarif
 
   - Análisis descriptivo (medias, varianza, histogramas).
 
-Pruebas de hipótesis (ingresos: Surf vs Ultimate; región NY-NJ vs resto).
+  - Pruebas de hipótesis (ingresos: Surf vs Ultimate; región NY-NJ vs resto).
 
-Conclusión y recomendaciones.
+  - Conclusión y recomendaciones.
